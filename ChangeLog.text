@@ -1,0 +1,12 @@
+LinkShare AdMix  Change Log
+========================
+
+Changes from 0.0 to 0.1
+---------------------------
+
+* Adopt .993 of FeedWordPress from Charles Johnson.
+
+* Focus the use by deleting the fields that allow arbitrary RSS feeds. Add menus that let users choose feeds from LinkShare's RSS feeds.
+
+* Add a token field.
+
